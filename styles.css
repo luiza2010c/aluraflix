@@ -1,12 +1,12 @@
 body {
-color: white;
-background: black;
+color: rgba(48, 240, 160, 0.418);
+background: rgb(243, 24, 126);
 margin: 0px;
 }
 
 header {
-border-bottom: solid 2px rgb(231, 57, 138);
+border-bottom: solid 2px rgba(37, 219, 150, 0.349);
 padding: 20px;
 font-size: 32px;
-color: rgb(118, 236, 187);
+color: rgba(118, 236, 187, 0);
 }
