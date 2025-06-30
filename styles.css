@@ -10,3 +10,15 @@ padding: 20px;
 font-size: 33px;
 color: rgba(6, 14, 10, 0.945);
 }
+
+section {
+    background: rgba(183, 156, 213, 0.036);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
