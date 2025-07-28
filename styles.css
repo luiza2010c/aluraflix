@@ -7,7 +7,7 @@ font-family: "Dancing Script", cursive;
 }
 
 header {
-border-bottom: solid 2px rgba(238, 13, 118, 0.932);
+border-bottom: solid 2px rgba(238, 13, 118, 0.002);
 padding: 20px;
 font-size: 33px;
 color: rgba(197, 47, 122, 0.945);
