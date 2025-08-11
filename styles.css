@@ -1,6 +1,6 @@
 body {
 color: rgba(238, 39, 152, 0.969);
-background: rgb(8, 1, 5);
+background: rgb(160, 243, 203);
 margin: 0px;
 
 font-family: "Dancing Script", cursive;
@@ -10,7 +10,7 @@ header {
 border-bottom: solid 2px rgba(238, 13, 118, 0.002);
 padding: 20px;
 font-size: 33px;
-color: rgba(205, 71, 138, 0.023);
+color: rgba(243, 64, 154, 0.97);
 }
 
 .chamada{
