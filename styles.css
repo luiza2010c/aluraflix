@@ -1,5 +1,5 @@
 body {
-color: rgba(107, 131, 121, 0.027);
+color: rgba(238, 39, 152, 0.969);
 background: rgb(8, 1, 5);
 margin: 0px;
 
@@ -10,7 +10,7 @@ header {
 border-bottom: solid 2px rgba(238, 13, 118, 0.002);
 padding: 20px;
 font-size: 33px;
-color: rgba(197, 47, 122, 0.945);
+color: rgba(205, 71, 138, 0.023);
 }
 
 section {
@@ -34,3 +34,31 @@ p{
 img {
   height: 200px;
 }
+body 1
+color: white;
+background: black;
+margin: Opx;
+font-family: "Chakra Petch", sans-serif; margin-bottom: 100px;
+header {
+border-bottom: solid 2px rgb(254, 59, 127);
+padding: 20px; font-size: 32px;
+color: rgb(4, 17, 35);
+}
+Chamada {
+background: rgb(246, 60, 150); padding-bottom: 80px; padding-top: 80px; display: flex;
+justify-content: center;
+•Chamada-texto {
+margin-right: 5%;
+h1 {
+font-size: 40px;
+font-size: 20px;
+}
+•categoria-videos { display: flex; overflow-x: auto;
+gap: 10px;
+categoria 1
+padding-left: 20px;
+padding-right: 20px; margin-top: 50px;
+•categoria-videos img { opacity: 0.5; height: 200px;
+•categoria-videos img:hover { opacity: 1.0;
+border: 3px solid rgba(230, 236, 230, 0);
+* categoria h2 { color: rgb(177, 247, 226);
